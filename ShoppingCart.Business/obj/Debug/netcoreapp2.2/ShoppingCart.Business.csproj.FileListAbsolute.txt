@@ -1,0 +1,9 @@
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp2.2\ShoppingCart.Business.deps.json
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp2.2\ShoppingCart.Business.dll
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp2.2\ShoppingCart.Business.csprojAssemblyReference.cache
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp2.2\ShoppingCart.Business.csproj.CoreCompileInputs.cache
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp2.2\ShoppingCart.Business.AssemblyInfoInputs.cache
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp2.2\ShoppingCart.Business.AssemblyInfo.cs
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp2.2\ShoppingCart.Business.pdb
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp2.2\ShoppingCart.Business.dll
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp2.2\ShoppingCart.Business.pdb

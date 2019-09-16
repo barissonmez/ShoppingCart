@@ -1,0 +1,14 @@
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\bin\Debug\netcoreapp2.2\ShoppingCart.Console.deps.json
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\bin\Debug\netcoreapp2.2\ShoppingCart.Console.runtimeconfig.json
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\bin\Debug\netcoreapp2.2\ShoppingCart.Console.runtimeconfig.dev.json
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\bin\Debug\netcoreapp2.2\ShoppingCart.Console.dll
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\bin\Debug\netcoreapp2.2\ShoppingCart.Console.pdb
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\obj\Debug\netcoreapp2.2\ShoppingCart.Console.csproj.CoreCompileInputs.cache
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\obj\Debug\netcoreapp2.2\ShoppingCart.Console.AssemblyInfoInputs.cache
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\obj\Debug\netcoreapp2.2\ShoppingCart.Console.AssemblyInfo.cs
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\obj\Debug\netcoreapp2.2\ShoppingCart.Console.dll
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\obj\Debug\netcoreapp2.2\ShoppingCart.Console.pdb
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\bin\Debug\netcoreapp2.2\ShoppingCart.Business.dll
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\bin\Debug\netcoreapp2.2\ShoppingCart.Business.pdb
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\obj\Debug\netcoreapp2.2\ShoppingCart.Console.csprojAssemblyReference.cache
+C:\Users\Baris\source\repos\Trendyol.ShoppingCart\ShoppingCart.Console\obj\Debug\netcoreapp2.2\ShoppingCart.Console.csproj.CopyComplete
